@@ -17,12 +17,12 @@
     "LANGUAGE": "en_US",
     "LOG_LEVEL": 1,
     "MODERATORS": [
-        "MAIN_UID"
+        "61566763566725"
     ],
     "ABSOLUTES": [
-        "ADMIN_UID"
+        "61566763566725"
     ],
-    "NAME": "BOT_NAME",
+    "NAME": "xaba bot",
     "PREFIX": "PREFIX_HERE",
     "timezone": "Asia/Dhaka",
     "REFRESH": "43200000"
